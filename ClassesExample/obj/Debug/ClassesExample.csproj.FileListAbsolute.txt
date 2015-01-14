@@ -1,0 +1,47 @@
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\bin\Debug\School.accdb
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\bin\Debug\ClassesExample.exe.config
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\bin\Debug\ClassesExample.exe
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\bin\Debug\ClassesExample.pdb
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\bin\Debug\MyClassLibrary.dll
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\bin\Debug\MyClassLibrary.pdb
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.csprojResolveAssemblyReference.cache
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.frmEmployee.resources
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.frmMain.resources
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.Properties.Resources.resources
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.csproj.GenerateResource.Cache
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.exe
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.pdb
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\bin\Debug\School.accdb
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\bin\Debug\ClassesExample.exe.config
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\bin\Debug\ClassesExample.exe
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\bin\Debug\ClassesExample.pdb
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\bin\Debug\MyClassLibrary.dll
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\bin\Debug\MyClassLibrary.pdb
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.csprojResolveAssemblyReference.cache
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.frmEmployee.resources
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.frmMain.resources
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.Properties.Resources.resources
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.csproj.GenerateResource.Cache
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.exe
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\ClassesExample\obj\Debug\ClassesExample.pdb
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\bin\Debug\ClassesExample.exe.config
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\obj\Debug\ClassesExample.exe
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\obj\Debug\ClassesExample.pdb
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\bin\Debug\School.accdb
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\bin\Debug\ClassesExample.exe
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\bin\Debug\ClassesExample.pdb
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\bin\Debug\MyClassLibrary.dll
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\bin\Debug\MyClassLibrary.pdb
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\obj\Debug\ClassesExample.csprojResolveAssemblyReference.cache
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\obj\Debug\ClassesExample.frmMain.resources
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\obj\Debug\ClassesExample.Properties.Resources.resources
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\ClassesExample\obj\Debug\ClassesExample.csproj.GenerateResource.Cache
+C:\Users\pascucci\Desktop\CIS3309ClassExampleSolution\ClassesExample\bin\Debug\ClassesExample.exe.config
+C:\Users\pascucci\Desktop\CIS3309ClassExampleSolution\ClassesExample\obj\Debug\ClassesExample.exe
+C:\Users\pascucci\Desktop\CIS3309ClassExampleSolution\ClassesExample\obj\Debug\ClassesExample.pdb
+C:\Users\pascucci\Desktop\ClassesExample\ClassesExample\bin\Debug\ClassesExample.exe.config
+C:\Users\pascucci\Desktop\ClassesExample\ClassesExample\obj\Debug\ClassesExample.exe
+C:\Users\pascucci\Desktop\ClassesExample\ClassesExample\obj\Debug\ClassesExample.pdb
+C:\Users\Mark\Desktop\ClassesExample\ClassesExample\bin\Debug\ClassesExample.exe.config
+C:\Users\Mark\Desktop\ClassesExample\ClassesExample\obj\Debug\ClassesExample.exe
+C:\Users\Mark\Desktop\ClassesExample\ClassesExample\obj\Debug\ClassesExample.pdb

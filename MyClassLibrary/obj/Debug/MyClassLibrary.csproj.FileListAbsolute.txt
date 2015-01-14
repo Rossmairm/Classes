@@ -1,0 +1,14 @@
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Teaching\CIS3309 - Component-Based Software Design\CIS3309TeachingSolution\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\pascucci\Documents\Visual Studio 2012\Projects\CIS3309TeachingSolution\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\MyClassLibrary\obj\Debug\MyClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\pascucci\Desktop\CIS3309ExampleSolution\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
